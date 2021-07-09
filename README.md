@@ -1,2 +1,2 @@
-# S-n-f
+# Sınıf
 Sınıf ve öznitelik
